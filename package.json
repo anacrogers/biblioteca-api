@@ -9,7 +9,7 @@
     "test": "jest"
   },
   "keywords": ["api", "biblioteca", "nodejs", "express"],
-  "author": "Seu Nome",
+  "author": "Ana Carolina",
   "license": "Apache-2.0",
   "dependencies": {
     "express": "^4.18.0"
